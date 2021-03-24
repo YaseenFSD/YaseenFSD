@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [yaseenfsd.com](yaseenfsd.com)
+- 👨‍💻 All of my projects are available at [yaseenfsd.com](https://yaseenfsd.com)
 
 - 📄 Know about my experiences [linkedin.com/in/yaseenfsd](linkedin.com/in/yaseenfsd)
 
